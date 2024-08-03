@@ -9,7 +9,7 @@ title: Bootcamp Divisi Komputer Februari 2024
 * [Changelog Keseluruhan](#changelog-keseluruhan)
 
 ## Tentang Bootcamp Kali Ini
-Dari tahun ke tahun, Bootcamp Divisi Komputer HME ITB dilaksanakan dengan mengikuti alur materi sinkron -> tugas -> materi sinkron -> tugas. Berdasarkan evaluasi, strategi ini masih belum optimal karena seringkali peserta merasa mengerti materi sinkron lalu ternyata tidak dapat mengerjakan tugasnya lalu *struggle* sendirian, seringkali jadwal peserta bentrok, banyak peserta yang lebih butuh bantuan saat pengerjaan tugas dibandingkan saat pemberian materi, dan lain sebagainya.
+Dari tahun ke tahun, Bootcamp Divisi Komputer HME ITB dilaksanakan dengan mengikuti alur materi sinkron ➡ tugas ➡ materi sinkron ➡ tugas. Berdasarkan evaluasi, strategi ini masih belum optimal karena seringkali peserta merasa mengerti materi sinkron lalu ternyata tidak dapat mengerjakan tugasnya lalu *struggle* sendirian, seringkali jadwal peserta bentrok, banyak peserta yang lebih butuh bantuan saat pengerjaan tugas dibandingkan saat pemberian materi, dan lain sebagainya.
 
 Oleh karena itu, semua materi diberikan secara asinkron via modul-modul teks yang dipublikasikan di website ini. Pengerjaan tugas, yang dinilai adalah bagian yang paling sulit, dapat dilakukan pada sesi offline opsional apabila ingin dibantu dan/atau sekadar ingin mengerjakan bareng teman. 
 
